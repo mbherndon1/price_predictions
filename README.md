@@ -1,2 +1,2 @@
-# machine_learning_price_predict
+# machine_learning_price_predictions
 Machine Learning - Price Predictions
